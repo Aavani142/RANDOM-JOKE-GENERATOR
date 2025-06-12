@@ -3,9 +3,7 @@
 
 A fun and lightweight web app that displays a new random joke every time you click the button. Perfect for when you need a quick laugh!
 
-👉 **[Live Demo]
-
-(https://aavani142.github.io/RANDOM-JOKE-GENERATOR/)**
+👉 **[Live Demo](https://aavani142.github.io/RANDOM-JOKE-GENERATOR/)**
 
 ---
 
